@@ -1,0 +1,62 @@
+h1{
+   margin:30px;
+   color:white;
+   font:30px;
+}
+.card{
+    margin-top:40px;
+    float:right}
+
+nav{
+    background-color:white;
+    height:80px;
+    margin:30px;
+    padding:30px;
+    opacity:0.6;
+    filter:alpha(opacity=40);
+
+}
+
+#button{
+   margin:20px;
+  
+}
+
+.card{
+    margin-right:100px;
+}
+
+.dj{
+    margin:20px;
+    background: white;
+    opacity:0.6;
+filter:alpha(opacity=40);
+  width: 180px;
+  height:50px;
+  border-radius: 3px;
+}
+
+.navbar-brand{
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(60, 85, 174);
+}
+
+#smoke-video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    z-index: -1
+}
+
+
+#gifs-appear-here{
+    margin-left:100px;
+    
+}
+
+.card-text{
+    font-weight:bold;
+    font-size:30px;
+}
